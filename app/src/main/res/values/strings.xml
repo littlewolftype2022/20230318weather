@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">20230318weather</string>
+    <string name="view1">City</string>
+    <string name="view2">View2</string>
+</resources>
