@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#B9DBE8"
+    android:background="@color/teal_200"
     >
 
     <LinearLayout
@@ -37,7 +37,9 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="北京">
+            android:text="北京"
+            android:background="#F8CFCF"
+            >
 
         </Button>
         <Button
